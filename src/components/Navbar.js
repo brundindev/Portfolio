@@ -43,7 +43,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" style={{ width: "75px", height: "auto" }} />
+          <img src={logo} className="img-fluid logo" alt="brand" style={{ width: "50px", height: "50px", objectFit: "contain" }} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
