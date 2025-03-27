@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio @brundindev - v1.0<br/>
-  <a href="https://brundindev.vercel.app/" target="_blank">brundindev.tech</a>
+  <a href="https://brundindev.vercel.app/" target="_blank">brundindev.es</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,20 +20,20 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/brundindev/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/brundindev/Portfolio/issues">Reportar Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/brundindev/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/brundindev/Portfolio/issues">Solicitar Funcionalidad</a>
 </h3>
 
-## TL;DR
+## Resumen
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [brundindev](https://github.com/brundindev/Portfolio). Thanks!
+Puedes hacer un fork de este repositorio para modificarlo y hacer tus propios cambios. Por favor, dame el crédito correspondiente enlazando a [brundindev](https://github.com/brundindev/Portfolio). ¡Gracias!
 
-## Built With
+## Construido Con
 
-My personal portfolio <a href="https://brundindev.vercel.app/" target="_blank">brundindev.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Mi portfolio personal <a href="https://brundindev.vercel.app/" target="_blank">brundindev.tech</a> muestra algunos de mis proyectos de GitHub, así como mi currículum y habilidades técnicas.<br/>
 
-This project was built using these technologies.
+Este proyecto fue construido utilizando las siguientes tecnologías:
 
 - React.js
 - Node.js
@@ -42,36 +42,17 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
-## Features
+## Características
 
-**📖 Multi-Page Layout**
+**📖 Diseño Multi-Página**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Estilizado con React-Bootstrap y CSS con colores fácilmente personalizables**
 
-**📱 Fully Responsive**
+**📱 Completamente Responsive**
 
-## Getting Started
+### Muestra tu apoyo
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
+¡Dale una ⭐ si te gusta este sitio web!
 
 <a href="https://www.buymeacoffee.com/brundindev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 # Portfolio
