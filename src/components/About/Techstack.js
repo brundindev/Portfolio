@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React from "react";
 import { Col, Row } from "react-bootstrap";
@@ -69,5 +69,5 @@ export default Techstack;
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

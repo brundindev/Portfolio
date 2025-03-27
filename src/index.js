@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React from "react";
 import ReactDOM from "react-dom";
@@ -20,5 +20,5 @@ reportWebVitals();
 /*=================================================================================================
                                     Alejandro Jimenez
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

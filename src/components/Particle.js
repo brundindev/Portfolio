@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React from "react";
 import Particles from "react-tsparticles";
@@ -61,5 +61,5 @@ export default Particle;
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

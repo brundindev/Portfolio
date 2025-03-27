@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
@@ -117,5 +117,5 @@ export default NavBar;
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

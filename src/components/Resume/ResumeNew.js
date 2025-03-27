@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
@@ -62,5 +62,5 @@ export default ResumeNew;
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

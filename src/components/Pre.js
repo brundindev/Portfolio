@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React from "react";
 function Pre(props) {
@@ -12,5 +12,5 @@ export default Pre;
 /*=================================================================================================
                                     Alejandro Jimenez Brundin
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

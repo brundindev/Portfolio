@@ -1,7 +1,7 @@
 /*=================================================================================================
                                     Alejandro Jimenez
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/
 import React, { useState, useEffect } from "react";
 import Preloader from "../src/components/Pre";
@@ -56,5 +56,5 @@ export default App;
 /*=================================================================================================
                                     Alejandro Jimenez
                                     brundindev@gmail.com
-                                    https://brundindev.vercel.app
+                                    https://brundindev-portfolio.vercel.app
 =================================================================================================*/

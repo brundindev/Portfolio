@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio @brundindev - v1.0<br/>
-  <a href="https://brundindev.vercel.app/" target="_blank">brundindev.es</a>
+  <a href="https://brundindev-portfolio.vercel.app/" target="_blank">brundindev.es</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -31,13 +31,11 @@ Puedes hacer un fork de este repositorio para modificarlo y hacer tus propios ca
 
 ## Construido Con
 
-Mi portfolio personal <a href="https://brundindev.vercel.app/" target="_blank">brundindev.tech</a> muestra algunos de mis proyectos de GitHub, así como mi currículum y habilidades técnicas.<br/>
+Mi portfolio personal <a href="https://brundindev-portfolio.vercel.app/" target="_blank">brundindev.es</a> muestra algunos de mis proyectos de GitHub, así como mi currículum y habilidades técnicas.<br/>
 
 Este proyecto fue construido utilizando las siguientes tecnologías:
 
 - React.js
-- Node.js
-- Express.js
 - CSS3
 - VsCode
 - Vercel
