@@ -39,7 +39,7 @@ function Projects() {
               imgPath={impulsedata_example}
               isBlog={false}
               title="ImpulseData"
-              description="Plataforma de análisis de datos y visualización para empresas desarrollada con React y Node.js. Facilita la transformación de datos complejos en insights accionables mediante dashboards interactivos y reportes personalizados, mejorando la toma de decisiones."
+              description="Plataforma de análisis de datos y visualización para empresas desarrollada con VUE-3, Java y Spring Boot. Facilita la transformación de datos complejos en insights accionables mediante dashboards interactivos y reportes personalizados, mejorando la toma de decisiones."
               ghLink="https://github.com/brundindev/ImpulseData"
               demoLink="https://impulsedata.brundindev.es"
             />
