@@ -30,7 +30,7 @@ function Projects() {
               title="Passwd"
               description="Gestor de contraseñas seguro desarrollado con tecnologías web modernas. Permite almacenar, generar y gestionar contraseñas de forma segura mediante encriptación avanzada. Incluye funcionalidades como autenticación de doble factor y sincronización entre dispositivos."
               ghLink="https://github.com/brundindev/passwd"
-              demoLink="https://passwd.brundindev.es"
+              demoLink="https://passwd-web.vercel.app"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               title="ImpulseData"
               description="Plataforma de análisis de datos y visualización para empresas desarrollada con VUE-3, Java y Spring Boot. Facilita la transformación de datos complejos en insights accionables mediante dashboards interactivos y reportes personalizados, mejorando la toma de decisiones."
               ghLink="https://github.com/brundindev/ImpulseData"
-              demoLink="https://impulsedata.brundindev.es"
+              demoLink="https://impulsedata.vercel.app"
             />
           </Col>
 
