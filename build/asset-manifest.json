@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.18d86ff9.css",
-    "main.js": "/static/js/main.6756847a.js",
+    "main.css": "/static/css/main.3be3b897.css",
+    "main.js": "/static/js/main.087231e0.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/brundindev_curriculum.pdf": "/static/media/brundindev_curriculum.a59c69283ccdbac55cfd.pdf",
+    "static/media/taskmanager.png": "/static/media/taskmanager.b6c9b7720e72ef2b8bff.png",
+    "static/media/brundindev_curriculum.pdf": "/static/media/brundindev_curriculum.4e64f5a9cbfc18b5acfa.pdf",
     "static/media/logo_brundindev.png": "/static/media/logo_brundindev.9da1efa03c5002e38210.png",
     "static/media/plataformacursosonline_example.png": "/static/media/plataformacursosonline_example.08bebea0f9bbb9ca49f3.png",
     "static/media/impulsedata_example.png": "/static/media/impulsedata_example.0c6cecd8da76a3c4faee.png",
@@ -14,12 +15,12 @@
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.18d86ff9.css.map": "/static/css/main.18d86ff9.css.map",
-    "main.6756847a.js.map": "/static/js/main.6756847a.js.map",
+    "main.3be3b897.css.map": "/static/css/main.3be3b897.css.map",
+    "main.087231e0.js.map": "/static/js/main.087231e0.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18d86ff9.css",
-    "static/js/main.6756847a.js"
+    "static/css/main.3be3b897.css",
+    "static/js/main.087231e0.js"
   ]
 }

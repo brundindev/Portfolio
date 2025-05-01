@@ -10,6 +10,8 @@ import Particle from "../Particle";
 import impulsedata_example from "../../Assets/Projects/impulsedata_example.png";
 import passwd_example from "../../Assets/Projects/passwd_example.png";
 import plataformacursosonline_example from "../../Assets/Projects/plataformacursosonline_example.png";
+import taskmanager from "../../Assets/Projects/taskmanager.png";
+ 
 
 function Projects() {
   return (
@@ -45,6 +47,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={taskmanager}
+              isBlog={false}
+              title="Task Manager"
+              description="Aplicación de gestión de tareas desarrollada con Java, Spring Boot y Thymeleaf. Incluye sección de perfil para cambiar contraseña, sistema completo para crear, editar y eliminar tareas, categorización por prioridad y fecha, y autenticación segura con Spring Security. Implementa un diseño responsive para acceso desde cualquier dispositivo."
+              ghLink="https://github.com/brundindev/taskmanager"
+              demoLink="https://taskmanager-i5m1.onrender.com"
+            />
+          </Col>
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={plataformacursosonline_example}
