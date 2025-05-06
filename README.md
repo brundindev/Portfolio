@@ -45,8 +45,6 @@ Este proyecto fue construido utilizando las siguientes tecnologías:
 
 **📖 Diseño Multi-Página**
 
-**🎨 Estilizado con React-Bootstrap y CSS con colores fácilmente personalizables**
-
 **📱 Completamente Responsive**
 
 ### Muestra tu apoyo
