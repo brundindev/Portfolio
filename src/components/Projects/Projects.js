@@ -11,6 +11,7 @@ import impulsedata_example from "../../Assets/Projects/impulsedata_example.png";
 import passwd_example from "../../Assets/Projects/passwd_example.png";
 import plataformacursosonline_example from "../../Assets/Projects/plataformacursosonline_example.png";
 import taskmanager from "../../Assets/Projects/taskmanager.png";
+import alicantefuturalab from "../../Assets/Projects/alicantefuturalab_example.png";
  
 
 function Projects() {
@@ -55,6 +56,17 @@ function Projects() {
               description="Aplicación de gestión de tareas desarrollada con Java, Spring Boot y Thymeleaf. Incluye sección de perfil para cambiar contraseña, sistema completo para crear, editar y eliminar tareas, categorización por prioridad y fecha, y autenticación segura con Spring Security. Implementa un diseño responsive para acceso desde cualquier dispositivo."
               ghLink="https://github.com/brundindev/taskmanager"
               demoLink="https://taskmanager-i5m1.onrender.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={alicantefuturalab}
+              isBlog={false}
+              title="Alicante Futura Lab"
+              description="Web hecha en Wordpress para la empresa Alicante Futura Lab. Incluye un blog y un formulario de contacto."
+              ghLink="https://github.com/brundindev/Alicante-Futura-Lab-Web"
+              demoLink="https://brundindev-dmfku-studio.wp.build/"
             />
           </Col>
           
