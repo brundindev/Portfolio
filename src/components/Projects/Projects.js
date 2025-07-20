@@ -12,6 +12,7 @@ import passwd_example from "../../Assets/Projects/passwd_example.png";
 import plataformacursosonline_example from "../../Assets/Projects/plataformacursosonline_example.png";
 import taskmanager from "../../Assets/Projects/taskmanager.png";
 import alicantefuturalab from "../../Assets/Projects/alicantefuturalab_example.png";
+import fyndit_example from "../../Assets/Projects/fyndit_example.png";
  
 
 function Projects() {
@@ -34,6 +35,17 @@ function Projects() {
               description="Gestor de contraseñas seguro desarrollado con tecnologías web modernas. Permite almacenar, generar y gestionar contraseñas de forma segura mediante encriptación avanzada. Incluye funcionalidades como autenticación de doble factor y sincronización entre dispositivos."
               ghLink="https://github.com/brundindev/passwd"
               demoLink="https://passwd-web.vercel.app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={fyndit_example}
+              isBlog={false}
+              title="Fyndit"
+              description="Marketplace de productos nuevos y usados. Desarrollado con VUE-3, Tailwind CSS, Firebase. Incluye autenticación con Google y Stripe para pagos."
+              ghLink="https://github.com/brundindev/fyndit"
+              demoLink="https://fyndit.vercel.app"
             />
           </Col>
 
