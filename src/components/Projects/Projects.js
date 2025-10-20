@@ -45,7 +45,7 @@ function Projects() {
               title="Fyndit"
               description="Marketplace de productos nuevos y usados. Desarrollado con VUE-3, Tailwind CSS, Firebase. Incluye autenticación con Google y Stripe para pagos."
               ghLink="https://github.com/brundindev/fyndit"
-              demoLink="https://fyndit.vercel.app"
+              demoLink="https://fynditmarket.vercel.app"
             />
           </Col>
 
